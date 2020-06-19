@@ -1,0 +1,13 @@
+E:\Tugas\Project\Pemrograman\19.11.2890\Tugas Pertemuan 11\Tugas Pertemuan 11\bin\Debug\netcoreapp3.1\Tugas Pertemuan 11.exe
+E:\Tugas\Project\Pemrograman\19.11.2890\Tugas Pertemuan 11\Tugas Pertemuan 11\bin\Debug\netcoreapp3.1\Tugas Pertemuan 11.deps.json
+E:\Tugas\Project\Pemrograman\19.11.2890\Tugas Pertemuan 11\Tugas Pertemuan 11\bin\Debug\netcoreapp3.1\Tugas Pertemuan 11.runtimeconfig.json
+E:\Tugas\Project\Pemrograman\19.11.2890\Tugas Pertemuan 11\Tugas Pertemuan 11\bin\Debug\netcoreapp3.1\Tugas Pertemuan 11.runtimeconfig.dev.json
+E:\Tugas\Project\Pemrograman\19.11.2890\Tugas Pertemuan 11\Tugas Pertemuan 11\bin\Debug\netcoreapp3.1\Tugas Pertemuan 11.dll
+E:\Tugas\Project\Pemrograman\19.11.2890\Tugas Pertemuan 11\Tugas Pertemuan 11\bin\Debug\netcoreapp3.1\Tugas Pertemuan 11.pdb
+E:\Tugas\Project\Pemrograman\19.11.2890\Tugas Pertemuan 11\Tugas Pertemuan 11\obj\Debug\netcoreapp3.1\Tugas Pertemuan 11.csprojAssemblyReference.cache
+E:\Tugas\Project\Pemrograman\19.11.2890\Tugas Pertemuan 11\Tugas Pertemuan 11\obj\Debug\netcoreapp3.1\Tugas Pertemuan 11.AssemblyInfoInputs.cache
+E:\Tugas\Project\Pemrograman\19.11.2890\Tugas Pertemuan 11\Tugas Pertemuan 11\obj\Debug\netcoreapp3.1\Tugas Pertemuan 11.AssemblyInfo.cs
+E:\Tugas\Project\Pemrograman\19.11.2890\Tugas Pertemuan 11\Tugas Pertemuan 11\obj\Debug\netcoreapp3.1\Tugas Pertemuan 11.csproj.CoreCompileInputs.cache
+E:\Tugas\Project\Pemrograman\19.11.2890\Tugas Pertemuan 11\Tugas Pertemuan 11\obj\Debug\netcoreapp3.1\Tugas Pertemuan 11.dll
+E:\Tugas\Project\Pemrograman\19.11.2890\Tugas Pertemuan 11\Tugas Pertemuan 11\obj\Debug\netcoreapp3.1\Tugas Pertemuan 11.pdb
+E:\Tugas\Project\Pemrograman\19.11.2890\Tugas Pertemuan 11\Tugas Pertemuan 11\obj\Debug\netcoreapp3.1\Tugas Pertemuan 11.genruntimeconfig.cache
